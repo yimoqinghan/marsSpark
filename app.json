@@ -1,0 +1,78 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subpackages": [
+    {
+      "root": "package_body_detect",
+      "pages": [
+        "pages/photo/photo",
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_face_detect_v2",
+      "pages": [
+        "pages/photo/photo",
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_hand_gesture",
+      "pages": [
+        "pages/photo/photo",
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_image_tracker",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_measure",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_oneshot_tracker",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_plane_track",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_spatial_audio",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_text_detect",
+      "pages": [
+        "pages/photo/photo",
+        "pages/camera/camera"
+      ]
+    },
+    {
+      "root": "package_world_track",
+      "pages": [
+        "pages/camera/camera"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "V1版小程序AR",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
